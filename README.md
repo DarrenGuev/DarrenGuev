@@ -1,8 +1,8 @@
-<h2 align="left">👋Hello World!💻</h2>
+<h2 align="center">Hello World, I'm Darren👋</h2>
 
 ###
 
-<p align="left">📖BSIT Student at PUP Sto. Tomas<br>🎯Aiming to be a Software QA</p>
+<p align="center">📖BSIT Student at PUP Sto. Tomas<br>🎯Aiming to be a Software QA</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -26,11 +26,11 @@
 
 ###
 
-<h2 align="left">🌐 Socials</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/MDFG.NERRAD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
@@ -54,10 +54,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarrenGuev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarrenGuev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DarrenGuev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DarrenGuev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://streak-stats.demolab.com?user=DarrenGuev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
