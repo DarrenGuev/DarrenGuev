@@ -57,4 +57,11 @@
 <img src="https://streak-stats.demolab.com?user=DarrenGuev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+### Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/9eb0940c-8456-40a8-b7cc-e0ed204c7606" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/9eb0940c-8456-40a8-b7cc-e0ed204c7606/Cisco_Badge.png" alt="Cisco Certification Badge" width="120"/>
+  </a>
+</div>
+
