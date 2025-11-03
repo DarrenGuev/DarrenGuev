@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📖BSIT Student at PUP Sto. Tomas<br>🎯Aiming to be a Software QA</p>
+<p align="center">📖BSIT Student at PUP Sto. Tomas<br>Aspiring Software QA🧑‍💻</p>
 
 ###
 
